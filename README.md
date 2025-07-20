@@ -19,7 +19,6 @@ This project predicts Estimated Time of Arrival (ETA) for buses on a specific ur
 ## 🚀 Demo
 
 **Streamlit App** (public):
-> [https://your-username-your-repo.streamlit.app](#)  
-> *(Replace with actual link after deployment)*
+>[(https://bus-eta-cyberphysicalsystem-digitaltwin.streamlit.app/)]
 
 ---
